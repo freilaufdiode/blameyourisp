@@ -18,7 +18,7 @@ from subprocess import CalledProcessError
 path = os.path.join( os.path.expanduser("~"), ".blameyourisp" )
 
 if not os.path.exists( path ):
-    os.mkdirs( path )
+    os.makedirs( path )
 
 logfile = os.path.join( path, "blameyourisp.log" )
 SLEEP=15 # minutes
