@@ -4,7 +4,7 @@ blameyourisp is a simple tool which makes a speedtest every 15 minutes and plots
 ![Screenshot](https://github.com/freilaufdiode/blameyourisp/blob/master/screenshot.png)
 
 ## Software Dependencies
-* speedtest-cli
+* [speedtest-cli](https://github.com/sivel/speedtest-cli)
 * bash with GNU coreutils
 * make
 * python (>2.7 or 3.x)
