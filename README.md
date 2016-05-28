@@ -1,4 +1,4 @@
-# Blame you ISP
+# Blame your ISP
 blameyourisp is a simple tool which makes a speedtest every 15 minutes and plots a graph to visualize your ISP's performance, helpful to spot deviations of your internet speed based on certain daytimes.
 
 ![Screenshot](https://github.com/freilaufdiode/blameyourisp/blob/master/screenshot.png)
